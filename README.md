@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Abbas Raza 👋</h1>
 
 <p align="center">
-  Software Engineer · Frappe / ERPNext specialist · Islamabad, Pakistan
+  ERPNext Expert at GK Hair International · Frappe / ERPNext specialist · Islamabad, Pakistan
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 I build enterprise web applications and ERP systems. For the last few years that has mostly meant the **Frappe Framework and ERPNext**: custom DocTypes, server and client scripts, reports, print formats and workflows for real businesses. Before that I shipped public-sector healthcare platforms in PHP (CodeIgniter and Laravel), including national disease-surveillance and immunization systems in Pakistan.
 
-- 💼 Software Engineer at **Micromerger Pvt. Ltd** (2021 – present)
+- 💼 ERPNext Expert at **GK Hair International** (June 2026 – present); previously Software Engineer at Micromerger Pvt. Ltd (2021 – 2026)
 - 🧩 Author of two open-source apps on the **Frappe Marketplace**
 - 🎓 BS Computer Science, PMAS Arid Agriculture University
 - 📫 Reach me at **abbasraza0444@gmail.com**
@@ -49,7 +49,7 @@ I build enterprise web applications and ERP systems. For the last few years that
 - **ICIMS** — Integrated Case Information Management System on Frappe / ERPNext (lead developer). [icims.mmis.space](https://icims.mmis.space)
 - **IDIMS** — Integrated Disease Information Management System for Pakistan's Emergency Operations Centre, CodeIgniter 3 + MySQL (lead developer). [idims.eoc.gov.pk](https://idims.eoc.gov.pk)
 - **EPIMIS** — Expanded Program on Immunization MIS, CodeIgniter 3 + PostgreSQL. [epimis.pk](https://epimis.pk)
-- **ERPNext customisation** for a multi-company, multi-currency enterprise: company filter, exchange-rate automation, payroll tax slab conversion, payment automation, reports and print formats.
+- **GK Hair ERPNext customisation** — custom Frappe app on ERPNext v16 for a multi-company, multi-currency business: company filter, exchange-rate automation, payroll tax slab conversion, payment automation, reports and print formats.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abbas0444&show_icons=true&hide_border=true&theme=default&hide_title=true" alt="GitHub stats" height="150">
